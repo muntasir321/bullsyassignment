@@ -1,0 +1,125 @@
+body{ margin:0;
+	padding: 0	
+}
+
+h1{font-size: 60px !important;margin-top: 27% !important;margin-left: 50px !important;color: white !important;}
+
+h2{font-size: 30px !important;color: #463f3a !important;margin-top: 50px !important;padding-top: 20px !important;}
+p{font-size: 16px !important;
+color: #463f3a !important}
+
+.container{}
+
+.header1{
+    background: #f5f6f1;
+}
+
+    body{ margin: 0;
+    padding: 0;}    .container{padding: 0;margin-top: 25px;}    .header{
+    margin: 20px;  }    .logo{}  .logo
+    a{;}  .logo
+    a img{      margin-top: 13px;  }  .menu{  }
+    nav{padding: 10px 0;}
+    nav ul{margin: 0;
+    padding: 0;
+    list-style: none;}
+    nav ul li{display: inline-block;
+    margin: 20px 20px;}
+    nav ul li a{      text-transform: uppercase;
+    color: #463f3a;
+    font-weight: 600;  }
+}
+.header{
+    margin: 20px;
+}
+
+.logo{}
+.logo a{}
+.logo a img{
+    margin-top: 13px;
+}
+.menu{
+}
+nav{padding: 10px 0;}
+nav ul{margin: 0;padding: 0;list-style: none;}
+nav ul li{display: inline-block;margin: 20px 20px;}
+nav ul li a{
+    text-transform: uppercase;
+    color: #463f3a;
+    font-weight: 600;
+    font-size: 16px;
+}
+.item{}
+.item a {}
+.item a img{
+    margin-top: 16px;
+    margin-left: 34px;
+}
+
+.banner{
+}
+
+.banner1{
+    width: 100%;
+    height: 500px;
+    background: url(../images/banner.png) no-repeat center center / cover;
+}
+
+img{
+    margin-top: 35%;
+}
+
+.ship1{
+    background: #f5f6f1;
+    text-align: center;
+    height: 126px;
+}
+.ship1 span{
+    color: red;
+}
+.ship2{
+    background: #f5f6f1;
+    text-align: -webkit-center;
+    height: 126px;
+}
+.ship2 span{
+    color: red;
+}
+.ship3{
+    background: #f5f6f1;
+    text-align: center;
+    height: 126px;
+}
+.ship3 span{
+    color: red;
+}
+
+.categories{
+    background: #f8f8f8;
+    /* text-align: center; */
+}
+.categories_text{}
+.categories_text h2{
+    text-align: center;
+    font-weight: bold;
+}
+.snikers{}
+.text{}
+.text h3{
+    font-weight: 900;
+}
+
+.text h3 a{
+    text-decoration: none;
+    color: #463f3a;
+}
+
+.text p{
+}
+.text span{
+}
+.text span a{color: red;font-size: 20px;}
+
+.snickers{
+    margin-top: -94px;
+}
